@@ -1,0 +1,16 @@
+.DS_Store
+.python/
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+.idea/
+.vscode/
+*.log
+get-pip.py
+python-*.zip
